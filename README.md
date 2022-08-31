@@ -40,14 +40,25 @@ The roadmap works as follows:
 By opening our roadmap, we want to include the community in the planning.
 Our introductory [blog post][roadmap-post] explains the rationale in more depth.
 
-### Discuss roadmap items
+If you have a *general* question about the roadmap, reach out to us on
+[Slack][slack] or start a [GitHub Discussion][discussions]. For *specific*
+question about a roadmap item, leave a comment to spawn a discussion.
 
-TBD
+If you would like to get deeper involved, take a look at our [RFC process][rfc].
+Approved RFCs become a first-class roadmap item, yet remain—like all roadmap
+items—subject to scheduling and resource constraints.
 
-### Suggest a new roadmap item
+## Disclaimer
 
-TBD
+By sharing our roadmap, we want to establish transparency and seek engagement.
+Our objective is not to provide a binding commitment, with respect to timeline
+or sequencing, but rather establish a communication vehicle.
 
+Roadmap changes may occur any time without notification.
+
+[discussions]: https://github.com/orgs/tenzir/discussions
+[slack]: http://slack.tenzir.com
 [internal-url]: https://github.com/orgs/tenzir/projects/8/
 [roadmap-post]: https://vast.io/blog/public-roadmap-and-open-rfcs
 [github-projects]: https://docs.github.com/en/issues/planning-and-tracking-with-projects/
+[rfc]: https://vast.io/docs/develop-vast/contributing/rfc
