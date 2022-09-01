@@ -12,7 +12,7 @@
 [schedule-view]: https://github.com/orgs/tenzir/projects/8/views/7
 [schedule-badge]: https://img.shields.io/badge/schedule-view-brightgreen?logo=github
 [triage-view]: https://github.com/orgs/tenzir/projects/8/views/10
-[triage-badge]: https://img.shields.io/badge/backlog-view-brightgreen?logo=github
+[triage-badge]: https://img.shields.io/badge/triage-view-brightgreen?logo=github
 
 This repository hosts the [public roadmap][internal-url] of
 [VAST](https://vast.io) in the form of a [GitHub Project][github-projects].
