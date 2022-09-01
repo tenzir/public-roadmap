@@ -1,21 +1,18 @@
 # Roadmap
 
 [![Board][board-badge]][board-view]
-[![Schedule][schedule-badge]][schedule-view]
 [![Milestones][milestones-badge]][milestones-view]
-[![Team][team-badge]][team-view]
-[![Backlog][backlog-badge]][backlog-view]
+[![Schedule][schedule-badge]][schedule-view]
+[![Triage][triage-badge]][triage-view]
 
 [board-view]: https://github.com/orgs/tenzir/projects/8/views/1
 [board-badge]: https://img.shields.io/badge/board-view-brightgreen?logo=github
-[schedule-view]: https://github.com/orgs/tenzir/projects/8/views/7
-[schedule-badge]: https://img.shields.io/badge/schedule-view-brightgreen?logo=github
 [milestones-view]: https://github.com/orgs/tenzir/projects/8/views/2
 [milestones-badge]: https://img.shields.io/badge/milestones-view-brightgreen?logo=github
-[team-view]: https://github.com/orgs/tenzir/projects/8/views/8
-[team-badge]: https://img.shields.io/badge/team-view-brightgreen?logo=github
-[backlog-view]: https://github.com/orgs/tenzir/projects/8/views/9
-[backlog-badge]: https://img.shields.io/badge/backlog-view-brightgreen?logo=github
+[schedule-view]: https://github.com/orgs/tenzir/projects/8/views/7
+[schedule-badge]: https://img.shields.io/badge/schedule-view-brightgreen?logo=github
+[triage-view]: https://github.com/orgs/tenzir/projects/8/views/10
+[triage-badge]: https://img.shields.io/badge/backlog-view-brightgreen?logo=github
 
 This repository hosts the [public roadmap][internal-url] of
 [VAST](https://vast.io) in the form of a [GitHub Project][github-projects].
