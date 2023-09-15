@@ -15,35 +15,30 @@
 [triage-badge]: https://img.shields.io/badge/triage-view-brightgreen?logo=github
 
 This repository hosts the [public roadmap][internal-url] of
-[VAST](https://vast.io) in the form of a [GitHub Project][github-projects].
+[Tenzir](https://tenzir.com) in the form of a [GitHub Project][github-projects].
 
 ## Structure
 
 The roadmap works as follows:
 
-- The official roadmap URL <https://vast.io/roadmap> links to the
+- The official roadmap URL <https://docs.tenzir.com/roadmap> links to the
   organization-wide [GitHub Project][internal-url] board.
 
-- [Issues](issues) represent the individual roadmap items.
+- [Issues][issues] represent the individual roadmap items.
 
 - The referenced [Project][internal-url] embeds issues from this repository.
 
-- [Labels](labels) categorize the roadmap items.
-
-- [Milestones](milestones) group roadmap items into overarching themes.
+- [Labels][labels] categorize the roadmap items.
 
 ## Engagement
 
-By opening our roadmap, we want to include the community in the planning.
-Our introductory [blog post][roadmap-post] explains the rationale in more depth.
+We want to include the community in our planning process, especially with
+respect to upcoming features. Our introductory [blog post][roadmap-post]
+explains the rationale in more depth.
 
 If you have a *general* question about the roadmap, reach out to us on
-[Slack][slack] or start a [GitHub Discussion][discussions]. For *specific*
-question about a roadmap item, leave a comment to spawn a discussion.
-
-If you would like to get deeper involved, take a look at our [RFC process][rfc].
-Approved RFCs become a first-class roadmap item, yet remain—like all roadmap
-items—subject to scheduling and resource constraints.
+[Discord][discord] or start a [GitHub Discussion][discussions]. For *specific*
+question about a particular roadmap item, please leave a comment.
 
 ## Disclaimer
 
@@ -53,9 +48,10 @@ or sequencing, but rather establish a communication vehicle.
 
 Roadmap changes may occur any time without notification.
 
+[issues]: https://github.com/tenzir/public-roadmap/issues
+[labels]: https://github.com/tenzir/public-roadmap/labels
 [discussions]: https://github.com/orgs/tenzir/discussions
-[slack]: http://slack.tenzir.com
+[discord]: http://discord.tenzir.com
 [internal-url]: https://github.com/orgs/tenzir/projects/8/
-[roadmap-post]: https://vast.io/blog/public-roadmap-and-open-rfcs
+[roadmap-post]: https://docs.tenzir.com/blog/public-roadmap-and-open-rfcs
 [github-projects]: https://docs.github.com/en/issues/planning-and-tracking-with-projects/
-[rfc]: https://vast.io/docs/develop-vast/contributing/rfc
